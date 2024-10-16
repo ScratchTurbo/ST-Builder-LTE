@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: #00c3ff;
+  background: #0080FF;
 }
 
 #block-editor {
@@ -19,9 +19,9 @@ body {
 
 button {
   color: white;
-  background: #00c3ff;
+  background: #0080FF;
   border-radius: 5px;
-  border-color: #00c3ff;
+  border-color: #1E9AFF;
   border: none;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -30,7 +30,7 @@ button {
 }
 
 button:hover {
-  background: #62D8FC;
+  background: #0080FF;
 }
 
 label {
